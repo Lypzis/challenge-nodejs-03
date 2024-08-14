@@ -22,8 +22,8 @@ Find a Friend API.
 
 ## NFR (Non-Functional Requirements)
 
-- [ ] ORG must be in admin mode to register a pet;
+- [x] ORG must be in admin mode to register a pet;
 - [x] The ORG password must be hashed;
 - [x] The application data must be persistent in a PostgreSQL database;
 - [x] All the lists must be paginated with 20 items per page;
-- [ ] The ORG can be identified by a JWT(JSON Web Token);
+- [x] The ORG can be identified by a JWT(JSON Web Token);
